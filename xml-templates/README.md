@@ -1,0 +1,1 @@
+XML templates for prompt metadata. Use XML tags for title, confidence, tags, and examples. See CONTRIBUTING.md for required fields.
