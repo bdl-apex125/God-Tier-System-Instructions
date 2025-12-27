@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Template for prompt metadata. Copy this header into new prompt files. -->
+<Prompt>
+  <Title>Example Prompt Title</Title>
+  <Creator>imron GTK thai</Creator>
+  <Confidence>0.90</Confidence>
+  <Tags>persona,example,usage</Tags>
+  <Context>Short context description (optional)</Context>
+  <Objective>Clear objective (e.g., "Summarize X in 150 words")</Objective>
+  <Style>Technical</Style>
+  <Tone>Formal</Tone>
+  <Audience>Non-technical managers</Audience>
+  <Response>Markdown paragraph</Response>
+  <ExampleInput>Example input text here.</ExampleInput>
+  <ExampleOutput>Expected example output here.</ExampleOutput>
+</Prompt>

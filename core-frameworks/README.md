@@ -1,0 +1,1 @@
+This folder contains core framework documentation (e.g., CO-STAR, Chain-of-Thought guides) used by prompts and system instructions.

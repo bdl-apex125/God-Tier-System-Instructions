@@ -40,6 +40,11 @@
 - **role-based-prompts/** — ไฟล์ Prompt สำหรับแต่ละ Persona หรืองานเฉพาะ
 - **xml-templates/** — โครง XML สำหรับสร้าง Prompt ใหม่
 
+## 🔖 Prompt Sets
+Prompt files are also grouped into curated sets to make selection easier. See the `sets/` folder and `sets/SETS_INDEX.md` for named sets (Core Features, CO-STAR, Protocol).
+
+All sets and prompts should follow the core principles defined in `core-frameworks/PRINCIPLES.md` (CO-STAR compliance, Zero-Latency, Precision Reasoning, Hallucination Control, metadata requirements).
+
 ---
 
 ## 📋 Contributions
@@ -51,7 +56,10 @@
 ---
 
 ## 🪙 Credits
-**Created and maintained by BDL Apex TH**
+- **Created and maintained by imron GTK thai**
+
+Original system instruction content and prompt source: `_Prompt__BDL_Apex_.pdf` (see file in the repository root).
+For attribution details, see [CREDITS.md](CREDITS.md).
 
 ---
 
