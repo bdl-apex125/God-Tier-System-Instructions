@@ -16,7 +16,7 @@ This document lists the authoritative principles all prompts, sets, and integrat
    - If facts cannot be verified, the prompt/agent must return `Insufficient Data` or an explicit failure mode rather than fabricating.
 
 5. Metadata & Machine-Friendliness
-   - All prompt files must include XML metadata: `<Prompt>` with at least `<Title>`, `<Confidence>`, `<Tags>`, and one example (`<ExampleInput>`, `<ExampleOutput>`).
+   - All prompt files must include XML metadata: `<Prompt>` with at least `<Title>`, `<Confidence>`, `<Tags>`, `<Creator>`, and one example (`<ExampleInput>`, `<ExampleOutput>`).
 
 6. Attribution & Licensing
    - Prompts derived from external sources must include a `<Creator>` tag or reference to `CREDITS.md`.
